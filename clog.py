@@ -1,4 +1,4 @@
-# daily blog
+# daily computer log
 from time import gmtime, strftime
 
 
